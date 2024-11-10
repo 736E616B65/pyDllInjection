@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DllInjection.iml" filepath="$PROJECT_DIR$/.idea/DllInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyDllInjection.iml" filepath="$PROJECT_DIR$/.idea/pyDllInjection.iml" />
     </modules>
   </component>
 </project>
